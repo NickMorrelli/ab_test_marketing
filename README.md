@@ -117,7 +117,7 @@ Charts will be saved to `/outputs/`.
 
 ## 🛠 Tech Stack
 
-- **Python 3.11+**
+- **Python 3.14+**
 - `pandas` — data wrangling
 - `numpy` — numerical computing
 - `scipy` — statistical tests
